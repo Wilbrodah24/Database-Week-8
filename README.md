@@ -62,32 +62,22 @@ ERD shows all relationships between Patients, Doctors, Appointments, Users, Pres
 ✅ Use Case Chosen:
 Clinic Booking System
 
-🗃️ Entities Involved:
+### 🗃️ Entities Involved:
 - Patients
-
 - Doctors
-
 - Appointments
-
 - Departments
-
 - Prescriptions
-
 - Medications
 
-🔗 Relationships:
+### 🔗 Relationships:
 
 - One doctor belongs to one department (Many-to-One)
-
 - One department can have many doctors (One-to-Many)
-
 - One patient can have many appointments (One-to-Many)
-
 - One doctor can have many appointments (One-to-Many)
-
 - Each appointment can have one prescription (One-to-One)
-
-A prescription can contain multiple medications (Many-to-Many)
+- A prescription can contain multiple medications (Many-to-Many)
 
 ---
 ## 🙋‍♂️ Contributing
