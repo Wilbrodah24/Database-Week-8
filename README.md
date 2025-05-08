@@ -24,12 +24,10 @@ This project is built with **pure SQL**, using proper relational principles—pr
 ## 📁 File Structure
 
 clinic-booking-db/
-├── clinic_booking_system.sql # SQL file to create all tables
-├── README.md # This file
+├── clinic_booking_system.sql
+├── README.md
 └── assets/
-└── ERD.png # Entity Relationship Diagram
-
----
+    └── ERD.png
 
 ---
 
@@ -56,11 +54,11 @@ Either use SOURCE in MySQL CLI:
    SOURCE /path/to/clinic_booking_system.sql;
 ```
 ---
-🖼️ Entity Relationship Diagram (ERD)
+## 🖼️ Entity Relationship Diagram (ERD)
 
 ERD shows all relationships between Patients, Doctors, Appointments, Users, Prescriptions, Medications, Tests, Payments, and more.
 ---
-🙋‍♂️ Contributing
+## 🙋‍♂️ Contributing
 Feel free to fork this repo and suggest improvements, such as:
 
 Stored procedures or triggers
@@ -69,10 +67,13 @@ Indexing for performance
 
 Views for complex reports
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
-✍️ Author
+## ✍️ Author
 Wilbrodah
+
 GitHub: @Wilbrodah24
+
 Email: wilbrodahmakhanu@gmail.com
+
