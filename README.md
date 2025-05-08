@@ -57,6 +57,7 @@ Either use SOURCE in MySQL CLI:
 ## 🖼️ Entity Relationship Diagram (ERD)
 
 ERD shows all relationships between Patients, Doctors, Appointments, Users, Prescriptions, Medications, Tests, Payments, and more.
+
 ---
 ## 🙋‍♂️ Contributing
 Feel free to fork this repo and suggest improvements, such as:
